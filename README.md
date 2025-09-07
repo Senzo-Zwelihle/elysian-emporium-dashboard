@@ -2,6 +2,8 @@
 
 # Elysian Emporium Admin Dashboard
 
+Deployment: https://elysian-emporium-dashboard.vercel.app/
+
 A comprehensive administrative interface for managing the Elysian Emporium ecommerce platform. Built with Next.js 15, TypeScript, and modern UI components for efficient store management.
 
 ## Overview
